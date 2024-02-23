@@ -46,7 +46,7 @@ Server infrastructure should be designed such that the potential increase of dat
 ## 3.6 Performance
 
 Cache memory should be added at the appropriate places to improve the efficiency of the system. The system should be designed such that further addition of cache memory is possible.
-![AquaWatch Logo](./aquawatch-system-design.png)
+![AquaWatch System Design](.Images/.png)
 # Software Requirements Analysis
 
 ## 4.1 It is necessary to validate the data inflow...
@@ -110,6 +110,6 @@ User will be directed to the dashboard after logging in.
 ## 6.3 Dashboard
 
 Dashboard will contain the button to start the recording of rainfall data. User will be able to select the status of the rain using a scale of 1-8 which will be simultaneously displayed graphically using a meter and an image relevant to the status. User will be able to adjust the status of the rain using the scale if needed. The time of rain will be displayed at the top of the screen.
-![AquaWatch Logo](./aquawatch-interface.png)
+![AquaWatch Logo](./Images/interface.png)
 
 --END--
