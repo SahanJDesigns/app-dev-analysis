@@ -46,6 +46,8 @@ Server infrastructure should be designed such that the potential increase of dat
 ## 3.6 Performance
 
 Cache memory should be added at the appropriate places to improve the efficiency of the system. The system should be designed such that further addition of cache memory is possible.
+
+
 ![AquaWatch System Design](./Images/systemDesign.png)
 # Software Requirements Analysis
 
